@@ -7,6 +7,7 @@ import {
   EdDSA
 } from '../index';
 
+
 describe('ECDH test', () => {
   let eddsa: EdDSA;
   beforeAll(async () => {
